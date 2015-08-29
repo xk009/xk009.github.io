@@ -1,0 +1,37 @@
+---
+layout: post
+title: "bingo"
+date: 2015-08-29 10:31:26 +0800
+comments: true
+categories: 
+---
+
+
+**加粗**
+`标亮`
+- Android
+	- http
+	- sqlite
+- PHP
+- HTML
+
+>引用
+
+![image]()
+
+{% video http://www.baidu.com 640 * 480 %}
+
+
+```java This is java http://www.baidu.com link
+public void sayHello() {
+	System.out.println("hello");
+}
+```
+
+
+{% codeblock lang:java This is a java http://www.baidu.com link %}
+public void sayHello() {
+	System.out.println("hello");
+}
+	
+{% endcodeblock %}

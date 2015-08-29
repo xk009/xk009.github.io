@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://xk009.github.io
+title: Bingo Blog
 subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: https://www.google.com/search
+author: Bingo
+simple_search: https://www.baidu.com
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -99,3 +99,6 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+#duosuo
+duoshuo_comment: true
